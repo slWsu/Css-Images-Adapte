@@ -39,4 +39,4 @@ En cas de besoin, faites moi signe, on ne sais jamais...
 
 ## License
 
-CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-C : Voir LICENSE.md
+Contrat de license de logiciel libre CeCILL-C : Voir LICENSE.md
