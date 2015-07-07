@@ -12,7 +12,7 @@ Css et images auto adaptatifs
 
 <!-- La pertie css dédiée aux médias est ajouté automatiquement -->
 
-<!-- Ajout d'un name="_NOM_IMAGE_+_EXTENTION_" et de la class="imgR" aux images adaptatives
+<!-- Ajout d'un name="_NOM_IMAGE_+_EXTENTION_" et de la class="imgR" aux images adaptatives -->
 <img src="img/tablet/img_a.png" name="img_a.png" class="imgR" alt="Une image responsive...">
 <img src="img/tablet/img_b.png" name="img_b.png" class="imgR" alt="Une autre image responsive...">
 
