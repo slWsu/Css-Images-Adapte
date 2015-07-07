@@ -1,8 +1,21 @@
-# choixMédias
+# Css Img Adapte
 
 Css et images auto adaptatifs
 
 ## A propos
+
+Css Img Adapte met a jour automatiquement les chemins des fichiers css et images en fonction 
+de la largueur du périphérique d'affichage.
+
+Le script utilise cinq fichiers css dont un est utilisé pour tout les formats, et 
+quatre autres dédiés a quatre format d'affichage différents : Desktop, Laptop, Tablet et mobile.
+
+Il utilise aussi un dossier img ou les images sont triplées sous 3 formats differents : petit, moyen et grand.
+
+La configuration est pour le moment compliqué si vous ne souhaitez pas utiliser cette 
+architecture, il vous faudra alors modifier le code...
+
+En cas de besoin, faites moi signe, on ne sais jamais...
 
 ## Code Example
 
@@ -23,12 +36,6 @@ Css et images auto adaptatifs
     })();
 </script>
 ```
-
-## Installation
-
-## Premier tests
-
-## Crédits
 
 ## License
 
