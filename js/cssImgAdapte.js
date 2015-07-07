@@ -1,17 +1,18 @@
+
 // -----------------------------------------------------------------------------
 // Fichier: cssImgAdapte.js
 // ---
 //
 // Package   : css Img Adapte - V 1.0.0 (master)
 // Copyright : (c) 2014 Steeve Lefebvre - http://www.web-startup.fr
-// Projet URI: https://github.com/slWsu/Css-Images-Adapte
+// Projet URI:
 // License   : http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html
 // ---
 //
 // Description:
 // Ce fichier détermine la largeur du périférique puis cré un <link css> vers le 
 // fichier css adapté et change les chemins des images pour afficher les images adaptées.
-// 
+// http://www.paste.org/79150 http://www.paste.org/79148  http://pastie.org/tools/  http://paste2.org/
 // -----------------------------------------------------------------------------
 
 var set, cssImgAdapte = {
