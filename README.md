@@ -12,8 +12,8 @@ quatre autres dédiés a quatre format d'affichage différents : Desktop, Laptop
 
 Il utilise aussi un dossier img ou les images sont triplées sous 3 formats differents : petit, moyen et grand.
 
-La configuration est pour le moment compliqué si vous ne souhaitez pas utiliser cette 
-architecture, il vous faudra alors modifier le code...
+La configuration est pour le moment compliqué, si vous ne souhaitez pas utiliser cette 
+architecture il vous faudra alors modifier le code...
 
 En cas de besoin, faites moi signe, on ne sais jamais...
 

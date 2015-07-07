@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Css Img Responsive</title>
+        <meta name="description" content="Systeme javascript d'images responsives" />
+        <!-- Appel du css de base -->
+        <link rel="stylesheet" href="style.css" type="text/css" />
+        <!-- Appel de cssImgAdapte.js -->
+        <script src="js/cssImgAdapte.js"></script>
+    </head>
+    <body>
+        <p>Essayez de redimensionner la fenêtre de votre navigateur.</p>
+        
+        <!-- Appel des images -->
+        <img src="_CHEMIN_IMG_SANS_JS_" name="img_a.png" class="imgR" alt="Une image responsive...">
+        <img src="_CHEMIN_IMG_SANS_JS_" name="img_b.png" class="imgR" alt="Une autre image responsive...">
+        
+        <!-- INIT : choix média -->
+        <script>
+            (function () {
+                cssImgAdapte.init()/* global cssImgAdapte */;
+            })();
+        </script>
+    </body>
+</html>
+

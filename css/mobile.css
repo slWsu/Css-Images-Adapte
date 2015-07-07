@@ -1,0 +1,18 @@
+// -----------------------------------------------------------------------------
+// Fichier: mobile.css
+// ---
+//
+// Package   : css Img Adapte - V 1.0.0 (master)
+// Copyright : (c) 2014 Steeve Lefebvre - http://www.web-startup.fr
+// Projet URI: https://github.com/slWsu/Css-Images-Adapte
+// License   : http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html
+// ---
+//
+// Description:
+// Fichier css contenant les régles dédiées au format mobile
+// 
+// -----------------------------------------------------------------------------
+
+body{
+    background-color: yellow;
+}
