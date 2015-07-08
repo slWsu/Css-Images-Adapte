@@ -12,7 +12,6 @@
 // Description:
 // Ce fichier détermine la largeur du périférique puis cré un <link css> vers le 
 // fichier css adapté et change les chemins des images pour afficher les images adaptées.
-// http://www.paste.org/79150 http://www.paste.org/79148  http://pastie.org/tools/  http://paste2.org/
 // -----------------------------------------------------------------------------
 
 var set, cssImgAdapte = {
